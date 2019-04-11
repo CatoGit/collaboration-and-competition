@@ -2,8 +2,8 @@
 
 ## Learning algorithm
 
-Similar to the single agent Continuous Control Project, the Deep Deterministic policy gradient (DDPG) algorithm is used for solving this environment.
-The reason for using this algorithm is the continuous action space. But this time there are two agents. Each agent receives its own observations.
+The Deep Deterministic policy gradient (DDPG) algorithm is used for solving this environment.
+The reason for using this algorithm is the continuous action space. In contrast to the single agent Continuous Control Project, there are two agents in this environment. Each agent receives its own observations.
 Both agents use the same actor network to select actions and their experience is added to a shared replay buffer.
 The DDPG uses two neural networks (actor & critic). The actor network approximates the optimal policy 
 by mapping states to the best actions deterministically. 
