@@ -6,13 +6,13 @@ Since both agents want to maximize their reward, both want to keep the ball in p
 
 The task is episodic. After each episode, the sum of the rewards that each agent achieved is calculated (without discounting).
 This results in two rewards (one for each agent). The maximum of these two is taken as the episode score.  
-The environment counts as solved once the score is at least +0.5 over 100 consecutive episodes.
+The environment counts as solved once the average score is at least +0.5 over 100 consecutive episodes.
 
 ## State and action space (Continuous)
 
 The observation space consits of 8 variables corresponding to the position and velocity of the ball and racket. 
 Each agent has its own observations. 
-There are two continuous actions corresponding to movement toward or away from the net and jumping.
+Each agent has two continuous actions corresponding to movement toward or away from the net and jumping.
 
 ## Instructions
 1. Follow the instructions [here](https://github.com/udacity/deep-reinforcement-learning#dependencies) to install all dependencies. 
