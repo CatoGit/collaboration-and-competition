@@ -46,7 +46,7 @@ As suggested in the Udacity course, gradient clipping is used when updating the 
 
 ### Results
 
-![Results](DDPG2.png)
+![Results]()
 
 ```
 
