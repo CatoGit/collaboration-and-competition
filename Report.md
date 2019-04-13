@@ -49,7 +49,29 @@ As suggested in the Udacity course, gradient clipping is used when updating the 
 ![Results]()
 
 ```
-
+Episode 100	Average Score: 0.0060
+Episode 200	Average Score: 0.0510
+Episode 300	Average Score: 0.0409
+Episode 400	Average Score: 0.0610
+Episode 500	Average Score: 0.0700
+Episode 600	Average Score: 0.0920
+Episode 700	Average Score: 0.1170
+Episode 800	Average Score: 0.1479
+Episode 900	Average Score: 0.1460
+Episode 1000	Average Score: 0.2249
+Episode 1100	Average Score: 0.2320
+Episode 1200	Average Score: 0.2170
+Episode 1300	Average Score: 0.2519
+Episode 1400	Average Score: 0.2378
+Episode 1500	Average Score: 0.2818
+Episode 1600	Average Score: 0.3169
+Episode 1700	Average Score: 0.3549
+Episode 1800	Average Score: 0.3509
+Episode 1900	Average Score: 0.3737
+Episode 2000	Average Score: 0.4119
+Episode 2100	Average Score: 0.4130
+Episode 2200	Average Score: 0.4649
+Episode 2225	Average Score: 0.4589
 ```
 
 
