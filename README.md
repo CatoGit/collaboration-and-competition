@@ -16,7 +16,7 @@ The environment counts as solved once the average score is at least +0.5 over 10
 
 ## State and action space (Continuous)
 
-The observation space consits of 8 variables corresponding to the position and velocity of the ball and racket. 
+The observation space consists of 8 variables corresponding to the position and velocity of the ball and racket. 
 Each agent has its own observations. 
 Each agent has two continuous actions corresponding to movement toward or away from the net and jumping.
 
