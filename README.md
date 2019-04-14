@@ -1,3 +1,6 @@
+[//]: # (Image References)
+[Tennis]: https://github.com/CatoGit/collaboration-and-competition/master/Tennis.gif "Tennis"
+
 # Collaboration and Competition using DDPG
 
 In this project two agents control rackets and play tennis against each other. 
@@ -7,6 +10,9 @@ Since both agents want to maximize their reward, both want to keep the ball in p
 The task is episodic. After each episode, the sum of the rewards that each agent achieved is calculated (without discounting).
 This results in two rewards (one for each agent). The maximum of these two is taken as the episode score.  
 The environment counts as solved once the average score is at least +0.5 over 100 consecutive episodes.
+
+
+![TennisPlay][Tennis]
 
 ## State and action space (Continuous)
 
