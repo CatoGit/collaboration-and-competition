@@ -77,7 +77,7 @@ Episode 2225	Average Score: 0.4589
 After a disconnect from the GPU, the training was continued with the checkpoints from the first round of training. 
 After another 510 episodes, an average score of over +0.5 was achieved.
 
-![Results](ResultsRound2.png)
+![Results](Results2.png)
 
 ```
 Episode 100	Average Score: 0.2178
