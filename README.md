@@ -1,5 +1,5 @@
 [//]: # (Image References)
-[Tennis]: https://github.com/CatoGit/collaboration-and-competition/master/Tennis.gif "Tennis"
+[Tennis]: https://github.com/CatoGit/collaboration-and-competition/Tennis.gif "Tennis"
 
 # Collaboration and Competition using DDPG
 
