@@ -46,7 +46,7 @@ As suggested in the Udacity course, gradient clipping is used when updating the 
 
 ### Results
 
-![Results]()
+![Results](ResultsRound1.png)
 
 ```
 Episode 100	Average Score: 0.0060
@@ -72,6 +72,21 @@ Episode 2000	Average Score: 0.4119
 Episode 2100	Average Score: 0.4130
 Episode 2200	Average Score: 0.4649
 Episode 2225	Average Score: 0.4589
+```
+
+After a disconnect from the GPU, the training was continued with the checkpoints from the first round of training. 
+After another 510 episodes, an average score of over +0.5 was achieved.
+
+![Results](ResultsRound2.png)
+
+```
+Episode 100	Average Score: 0.2178
+Episode 200	Average Score: 0.2908
+Episode 300	Average Score: 0.3389
+Episode 400	Average Score: 0.3290
+Episode 500	Average Score: 0.4469
+Episode 510	Average Score: 0.5098
+Environment solved in 510 episodes!	Average Score: 0.5098
 ```
 
 
