@@ -46,7 +46,7 @@ As suggested in the Udacity course, gradient clipping is used when updating the 
 
 ### Results
 
-![Results](ResultsRound1.png)
+First round of training:
 
 ```
 Episode 100	Average Score: 0.0060
